@@ -15,3 +15,5 @@
 3) Refactor
 
 You should both write production code that fully meets the expectation of your test, and write tests that fully meet the specification of the program.
+
+> _This Repository is created by Mimi Magusin. Her personal profile can be found [here](https://github.com/MimiMagusin), her Codaisseur Profile can be found [here](https://github.com/MimiMag)_
